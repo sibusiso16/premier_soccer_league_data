@@ -1,4 +1,4 @@
-# premier_soccer_league_data
+# Premier Soccer League Data
 South African soccer results 2002-2017
 
 This is a repository for South African Premier Soccer League (PSL) dataset from 2002 to 2017. The PSL dataset is from 2002 and contains each result of matches played since. The reason for picking 2002 over 1996, is based on the fact that the PSL went from 18 teams to 16 teams in 2002, after **Free State Stars** and **Ria Stars** were bought out by the league for R8 million rand each to reduce fixture congestion. 
