@@ -12,3 +12,10 @@ A few teams have changed their names or sold their football license to other tea
 A number of teams have been given point deductions for failing to meet some of the legal requirements set by the PSL committee. The link shows the deduction...
 
 https://gist.github.com/sibusiso16/113e3b773fdc6952708bba944381653e
+
+# EDA done using the data
+
+1. http://www.limn.co.za/2017/11/psl-analysis-from-2002-to-current-season/
+2. http://rpubs.com/SEMkhondwane/PSL_Games_Ending_in_Draws_Updated
+3. http://rpubs.com/SEMkhondwane/333492
+4. http://rpubs.com/SEMkhondwane/aLook_at_the_2017_PSL_Season
