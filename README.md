@@ -7,7 +7,7 @@ This is a repository for South African Premier Soccer League (PSL) dataset from 
 
 A few teams have changed their names or sold their football license to other teams. **AmaZulu** were renamed **Zulu Royals** and later renamed back to **AmaZulu**, **Dynamos** sold their license to **AmaZulu** (formerly **Zulu Royals**), **Tembisa Classic** sold their license to **Maritzburg United** and **Wits University** were renamed **Bidvest Wits**. Finally, **Silver Stars** were renamed **Platinum Stars** and **Benoni Premier United** changed their name to **Thanda Royal Zulu** (this change took place during the 2007 season).
 
-# Point Deducations
+# Point Deductions
 
 A number of teams have been given point deductions for failing to meet some of the legal requirements set by the PSL committee. The link shows the deduction...
 
