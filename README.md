@@ -15,7 +15,7 @@ https://gist.github.com/sibusiso16/113e3b773fdc6952708bba944381653e
 
 # EDA done using the data
 
-These are the Explotatory Data Analysis (EDA), I have done by using this dataset.
+These are the Explotatory Data Analysis (EDA), I have done using this dataset.
 
 1. http://www.limn.co.za/2017/11/psl-analysis-from-2002-to-current-season/
 2. http://rpubs.com/SEMkhondwane/PSL_Games_Ending_in_Draws_Updated
