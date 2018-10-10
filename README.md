@@ -21,3 +21,7 @@ These are the Explotatory Data Analysis (EDA), I have done using this dataset.
 2. http://rpubs.com/SEMkhondwane/PSL_Games_Ending_in_Draws_Updated
 3. http://rpubs.com/SEMkhondwane/333492
 4. http://rpubs.com/SEMkhondwane/aLook_at_the_2017_PSL_Season
+
+# Data Sourced
+
+The data was sourced from the following two site: www.kickoff.com and http://wikipedia.org.
