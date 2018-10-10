@@ -24,4 +24,4 @@ These are the Explotatory Data Analysis (EDA), I have done using this dataset.
 
 # Data Sourced
 
-The data was sourced from the following two site: www.kickoff.com and http://wikipedia.org.
+The data was sourced from the following two sites: www.kickoff.com and http://wikipedia.org.
